@@ -1,5 +1,5 @@
 ## Aim:
-    To analyze student attention in a classroom video by detecting face landmarks and estimating head orientation using MediaPipe Face Mesh and OpenCV.
+To analyze student attention in a classroom video by detecting face landmarks and estimating head orientation using MediaPipe Face Mesh and OpenCV.
 
 ## Objective:
 
